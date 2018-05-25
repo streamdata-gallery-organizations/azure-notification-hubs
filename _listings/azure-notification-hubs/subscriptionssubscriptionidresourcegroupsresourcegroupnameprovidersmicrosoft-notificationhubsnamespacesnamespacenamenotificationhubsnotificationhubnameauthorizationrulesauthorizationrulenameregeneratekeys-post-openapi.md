@@ -1,10 +1,11 @@
 ---
 swagger: "2.0"
 x-collection-name: Azure Notification Hubs
-x-complete: 1
+x-complete: 0
 info:
-  title: NotificationHubsManagementClient
-  description: azure-notificationhub-client
+  title: Azure Notification Hubs API Notification Hubs Regenerate Keys
+  description: Regenerates the Primary/Secondary Keys to the NotificationHub Authorization
+    Rule
   version: 1.0.0
 host: management.azure.com
 basePath: /
@@ -584,27 +585,17 @@ paths:
           description: OK
       tags:
       - Notification Hubs Regenerate Keys
-  ? /subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.NotificationHubs/namespaces/{namespaceName}/notificationHubs/{notificationHubName}/pnsCredentials
-  : post:
-      summary: Notification Hubs Get Pns Credentials
-      description: Lists the PNS Credentials associated with a notification hub .
-      operationId: NotificationHubs_GetPnsCredentials
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-notificationhubsnamespacesnamespacenamenotificationhubsnotificationhubnamepnscredentials-post
-      parameters:
-      - in: path
-        name: namespaceName
-        description: The namespace name
-      - in: query
-        name: No Name
-      - in: path
-        name: notificationHubName
-        description: The notification hub name
-      - in: path
-        name: resourceGroupName
-        description: The name of the resource group
-      responses:
-        200:
-          description: OK
-      tags:
-      - Notification Hubs Pns Credentials
+x-streamrank:
+  polling_total_time_average: 0
+  polling_size_download_average: 0
+  streaming_total_time_average: 0
+  streaming_size_download_average: 0
+  change_yes: 0
+  change_no: 0
+  time_percentage: 0
+  size_percentage: 0
+  change_percentage: 0
+  last_run: ""
+  days_run: 0
+  minute_run: 0
 ---

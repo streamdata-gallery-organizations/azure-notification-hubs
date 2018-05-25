@@ -9,8 +9,8 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "10"
 x-alexaRank: ""
 tags: Azure Notification Hubs
-created: "2018-05-21"
-modified: "2018-05-21"
+created: "2018-05-24"
+modified: "2018-05-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-notification-hubs/master/_listings/azure-notification-hubs/apis.md
 specificationVersion: "0.14"
 apis:
@@ -25,7 +25,7 @@ apis:
   tags: Namespaces Availability
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-notification-hubs/master/_listings/azure-notification-hubs/subscriptionssubscriptionidprovidersmicrosoftnotificationhubschecknamespaceavailability-post-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-notification-hubs/master/_listings/azure-notification-hubs/subscriptionssubscriptionidprovidersmicrosoft-notificationhubschecknamespaceavailability-post-openapi.md
 - name: Azure Notification Hubs API Namespaces Create Or Update
   x-api-slug: azure-notification-hubs-api
   description: Creates/Updates a service namespace. Once created, this namespace's
@@ -36,7 +36,7 @@ apis:
   tags: Namespaces
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-notification-hubs/master/_listings/azure-notification-hubs/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnotificationhubsnamespacesnamespacename-put-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-notification-hubs/master/_listings/azure-notification-hubs/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-notificationhubsnamespacesnamespacename-put-openapi.md
 - name: Azure Notification Hubs API Namespaces Patch
   x-api-slug: azure-notification-hubs-api
   description: Patches the existing namespace
@@ -46,7 +46,7 @@ apis:
   tags: Namespaces
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-notification-hubs/master/_listings/azure-notification-hubs/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnotificationhubsnamespacesnamespacename-patch-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-notification-hubs/master/_listings/azure-notification-hubs/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-notificationhubsnamespacesnamespacename-patch-openapi.md
 - name: Azure Notification Hubs API Namespaces Delete
   x-api-slug: azure-notification-hubs-api
   description: Deletes an existing namespace. This operation also removes all associated
@@ -57,9 +57,9 @@ apis:
   tags: Namespaces
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-notification-hubs/master/_listings/azure-notification-hubs/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnotificationhubsnamespacesnamespacename-delete-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-notification-hubs/master/_listings/azure-notification-hubs/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-notificationhubsnamespacesnamespacename-delete-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-notification-hubs/master/_listings/azure-notification-hubs/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnotificationhubsnamespacesnamespacename-delete-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-notification-hubs/master/_listings/azure-notification-hubs/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-notificationhubsnamespacesnamespacename-delete-openapi.md
 - name: Azure Notification Hubs API Namespaces Get
   x-api-slug: azure-notification-hubs-api
   description: Returns the description for the specified namespace.
@@ -69,9 +69,9 @@ apis:
   tags: Namespaces
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-notification-hubs/master/_listings/azure-notification-hubs/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnotificationhubsnamespacesnamespacename-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-notification-hubs/master/_listings/azure-notification-hubs/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-notificationhubsnamespacesnamespacename-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-notification-hubs/master/_listings/azure-notification-hubs/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnotificationhubsnamespacesnamespacename-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-notification-hubs/master/_listings/azure-notification-hubs/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-notificationhubsnamespacesnamespacename-get-openapi.md
 - name: Azure Notification Hubs API Namespaces Create Or Update Authorization Rule
   x-api-slug: azure-notification-hubs-api
   description: Creates an authorization rule for a namespace
@@ -81,7 +81,7 @@ apis:
   tags: Namespaces Authorization Rule
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-notification-hubs/master/_listings/azure-notification-hubs/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnotificationhubsnamespacesnamespacenameauthorizationrulesauthorizationrulename-put-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-notification-hubs/master/_listings/azure-notification-hubs/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-notificationhubsnamespacesnamespacenameauthorizationrulesauthorizationrulename-put-openapi.md
 - name: Azure Notification Hubs API Namespaces Delete Authorization Rule
   x-api-slug: azure-notification-hubs-api
   description: Deletes a namespace authorization rule
@@ -91,9 +91,9 @@ apis:
   tags: Namespaces Authorization Rule
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-notification-hubs/master/_listings/azure-notification-hubs/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnotificationhubsnamespacesnamespacenameauthorizationrulesauthorizationrulename-delete-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-notification-hubs/master/_listings/azure-notification-hubs/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-notificationhubsnamespacesnamespacenameauthorizationrulesauthorizationrulename-delete-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-notification-hubs/master/_listings/azure-notification-hubs/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnotificationhubsnamespacesnamespacenameauthorizationrulesauthorizationrulename-delete-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-notification-hubs/master/_listings/azure-notification-hubs/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-notificationhubsnamespacesnamespacenameauthorizationrulesauthorizationrulename-delete-openapi.md
 - name: Azure Notification Hubs API Namespaces Get Authorization Rule
   x-api-slug: azure-notification-hubs-api
   description: Gets an authorization rule for a namespace by name.
@@ -103,9 +103,9 @@ apis:
   tags: Namespaces Authorization Rule
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-notification-hubs/master/_listings/azure-notification-hubs/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnotificationhubsnamespacesnamespacenameauthorizationrulesauthorizationrulename-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-notification-hubs/master/_listings/azure-notification-hubs/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-notificationhubsnamespacesnamespacenameauthorizationrulesauthorizationrulename-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-notification-hubs/master/_listings/azure-notification-hubs/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnotificationhubsnamespacesnamespacenameauthorizationrulesauthorizationrulename-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-notification-hubs/master/_listings/azure-notification-hubs/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-notificationhubsnamespacesnamespacenameauthorizationrulesauthorizationrulename-get-openapi.md
 - name: Azure Notification Hubs API Namespaces List
   x-api-slug: azure-notification-hubs-api
   description: Lists the available namespaces within a resourceGroup.
@@ -115,9 +115,9 @@ apis:
   tags: Namespaces
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-notification-hubs/master/_listings/azure-notification-hubs/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnotificationhubsnamespaces-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-notification-hubs/master/_listings/azure-notification-hubs/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-notificationhubsnamespaces-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-notification-hubs/master/_listings/azure-notification-hubs/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnotificationhubsnamespaces-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-notification-hubs/master/_listings/azure-notification-hubs/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-notificationhubsnamespaces-get-openapi.md
 - name: Azure Notification Hubs API Namespaces List All
   x-api-slug: azure-notification-hubs-api
   description: Lists all the available namespaces within the subscription irrespective
@@ -128,9 +128,9 @@ apis:
   tags: Namespaces All
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-notification-hubs/master/_listings/azure-notification-hubs/subscriptionssubscriptionidprovidersmicrosoftnotificationhubsnamespaces-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-notification-hubs/master/_listings/azure-notification-hubs/subscriptionssubscriptionidprovidersmicrosoft-notificationhubsnamespaces-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-notification-hubs/master/_listings/azure-notification-hubs/subscriptionssubscriptionidprovidersmicrosoftnotificationhubsnamespaces-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-notification-hubs/master/_listings/azure-notification-hubs/subscriptionssubscriptionidprovidersmicrosoft-notificationhubsnamespaces-get-openapi.md
 - name: Azure Notification Hubs API Namespaces List Authorization Rules
   x-api-slug: azure-notification-hubs-api
   description: Gets the authorization rules for a namespace.
@@ -140,9 +140,9 @@ apis:
   tags: Namespaces Authorization Rules
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-notification-hubs/master/_listings/azure-notification-hubs/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnotificationhubsnamespacesnamespacenameauthorizationrules-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-notification-hubs/master/_listings/azure-notification-hubs/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-notificationhubsnamespacesnamespacenameauthorizationrules-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-notification-hubs/master/_listings/azure-notification-hubs/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnotificationhubsnamespacesnamespacenameauthorizationrules-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-notification-hubs/master/_listings/azure-notification-hubs/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-notificationhubsnamespacesnamespacenameauthorizationrules-get-openapi.md
 - name: Azure Notification Hubs API Namespaces List Keys
   x-api-slug: azure-notification-hubs-api
   description: Gets the Primary and Secondary ConnectionStrings to the namespace
@@ -152,9 +152,9 @@ apis:
   tags: Namespaces Keys
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-notification-hubs/master/_listings/azure-notification-hubs/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnotificationhubsnamespacesnamespacenameauthorizationrulesauthorizationrulenamelistkeys-post-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-notification-hubs/master/_listings/azure-notification-hubs/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-notificationhubsnamespacesnamespacenameauthorizationrulesauthorizationrulenamelistkeys-post-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-notification-hubs/master/_listings/azure-notification-hubs/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnotificationhubsnamespacesnamespacenameauthorizationrulesauthorizationrulenamelistkeys-post-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-notification-hubs/master/_listings/azure-notification-hubs/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-notificationhubsnamespacesnamespacenameauthorizationrulesauthorizationrulenamelistkeys-post-openapi.md
 - name: Azure Notification Hubs API Namespaces Regenerate Keys
   x-api-slug: azure-notification-hubs-api
   description: Regenerates the Primary/Secondary Keys to the Namespace Authorization
@@ -165,7 +165,7 @@ apis:
   tags: Namespaces Regenerate Keys
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-notification-hubs/master/_listings/azure-notification-hubs/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnotificationhubsnamespacesnamespacenameauthorizationrulesauthorizationrulenameregeneratekeys-post-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-notification-hubs/master/_listings/azure-notification-hubs/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-notificationhubsnamespacesnamespacenameauthorizationrulesauthorizationrulenameregeneratekeys-post-openapi.md
 - name: Azure Notification Hubs API Notification Hubs Check Availability
   x-api-slug: azure-notification-hubs-api
   description: Checks the availability of the given notificationHub in a namespace.
@@ -175,7 +175,7 @@ apis:
   tags: Notification Hubs Availability
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-notification-hubs/master/_listings/azure-notification-hubs/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnotificationhubsnamespacesnamespacenamechecknotificationhubavailability-post-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-notification-hubs/master/_listings/azure-notification-hubs/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-notificationhubsnamespacesnamespacenamechecknotificationhubavailability-post-openapi.md
 - name: Azure Notification Hubs API Notification Hubs Create Or Update
   x-api-slug: azure-notification-hubs-api
   description: Creates/Update a NotificationHub in a namespace.
@@ -185,7 +185,7 @@ apis:
   tags: Notification Hubs
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-notification-hubs/master/_listings/azure-notification-hubs/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnotificationhubsnamespacesnamespacenamenotificationhubsnotificationhubname-put-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-notification-hubs/master/_listings/azure-notification-hubs/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-notificationhubsnamespacesnamespacenamenotificationhubsnotificationhubname-put-openapi.md
 - name: Azure Notification Hubs API Notification Hubs Delete
   x-api-slug: azure-notification-hubs-api
   description: Deletes a notification hub associated with a namespace.
@@ -195,7 +195,7 @@ apis:
   tags: Notification Hubs
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-notification-hubs/master/_listings/azure-notification-hubs/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnotificationhubsnamespacesnamespacenamenotificationhubsnotificationhubname-delete-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-notification-hubs/master/_listings/azure-notification-hubs/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-notificationhubsnamespacesnamespacenamenotificationhubsnotificationhubname-delete-openapi.md
 - name: Azure Notification Hubs API Notification Hubs Get
   x-api-slug: azure-notification-hubs-api
   description: Lists the notification hubs associated with a namespace.
@@ -205,7 +205,7 @@ apis:
   tags: Notification Hubs
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-notification-hubs/master/_listings/azure-notification-hubs/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnotificationhubsnamespacesnamespacenamenotificationhubsnotificationhubname-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-notification-hubs/master/_listings/azure-notification-hubs/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-notificationhubsnamespacesnamespacenamenotificationhubsnotificationhubname-get-openapi.md
 - name: Azure Notification Hubs API Notification Hubs Create Or Update Authorization
     Rule
   x-api-slug: azure-notification-hubs-api
@@ -216,7 +216,7 @@ apis:
   tags: Notification Hubs Authorization Rule
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-notification-hubs/master/_listings/azure-notification-hubs/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnotificationhubsnamespacesnamespacenamenotificationhubsnotificationhubnameauthorizationrulesauthorizationrulename-put-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-notification-hubs/master/_listings/azure-notification-hubs/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-notificationhubsnamespacesnamespacenamenotificationhubsnotificationhubnameauthorizationrulesauthorizationrulename-put-openapi.md
 - name: Azure Notification Hubs API Notification Hubs Delete Authorization Rule
   x-api-slug: azure-notification-hubs-api
   description: Deletes a notificationHub authorization rule
@@ -226,9 +226,9 @@ apis:
   tags: Notification Hubs Authorization Rule
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-notification-hubs/master/_listings/azure-notification-hubs/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnotificationhubsnamespacesnamespacenamenotificationhubsnotificationhubnameauthorizationrulesauthorizationrulename-delete-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-notification-hubs/master/_listings/azure-notification-hubs/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-notificationhubsnamespacesnamespacenamenotificationhubsnotificationhubnameauthorizationrulesauthorizationrulename-delete-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-notification-hubs/master/_listings/azure-notification-hubs/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnotificationhubsnamespacesnamespacenamenotificationhubsnotificationhubnameauthorizationrulesauthorizationrulename-delete-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-notification-hubs/master/_listings/azure-notification-hubs/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-notificationhubsnamespacesnamespacenamenotificationhubsnotificationhubnameauthorizationrulesauthorizationrulename-delete-openapi.md
 - name: Azure Notification Hubs API Notification Hubs Get Authorization Rule
   x-api-slug: azure-notification-hubs-api
   description: Gets an authorization rule for a NotificationHub by name.
@@ -238,9 +238,9 @@ apis:
   tags: Notification Hubs Authorization Rule
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-notification-hubs/master/_listings/azure-notification-hubs/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnotificationhubsnamespacesnamespacenamenotificationhubsnotificationhubnameauthorizationrulesauthorizationrulename-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-notification-hubs/master/_listings/azure-notification-hubs/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-notificationhubsnamespacesnamespacenamenotificationhubsnotificationhubnameauthorizationrulesauthorizationrulename-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-notification-hubs/master/_listings/azure-notification-hubs/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnotificationhubsnamespacesnamespacenamenotificationhubsnotificationhubnameauthorizationrulesauthorizationrulename-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-notification-hubs/master/_listings/azure-notification-hubs/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-notificationhubsnamespacesnamespacenamenotificationhubsnotificationhubnameauthorizationrulesauthorizationrulename-get-openapi.md
 - name: Azure Notification Hubs API Notification Hubs List
   x-api-slug: azure-notification-hubs-api
   description: Lists the notification hubs associated with a namespace.
@@ -250,7 +250,7 @@ apis:
   tags: Notification Hubs
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-notification-hubs/master/_listings/azure-notification-hubs/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnotificationhubsnamespacesnamespacenamenotificationhubs-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-notification-hubs/master/_listings/azure-notification-hubs/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-notificationhubsnamespacesnamespacenamenotificationhubs-get-openapi.md
 - name: Azure Notification Hubs API Notification Hubs List Authorization Rules
   x-api-slug: azure-notification-hubs-api
   description: Gets the authorization rules for a NotificationHub.
@@ -260,9 +260,9 @@ apis:
   tags: Notification Hubs Authorization Rules
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-notification-hubs/master/_listings/azure-notification-hubs/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnotificationhubsnamespacesnamespacenamenotificationhubsnotificationhubnameauthorizationrules-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-notification-hubs/master/_listings/azure-notification-hubs/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-notificationhubsnamespacesnamespacenamenotificationhubsnotificationhubnameauthorizationrules-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-notification-hubs/master/_listings/azure-notification-hubs/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnotificationhubsnamespacesnamespacenamenotificationhubsnotificationhubnameauthorizationrules-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-notification-hubs/master/_listings/azure-notification-hubs/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-notificationhubsnamespacesnamespacenamenotificationhubsnotificationhubnameauthorizationrules-get-openapi.md
 - name: Azure Notification Hubs API Notification Hubs List Keys
   x-api-slug: azure-notification-hubs-api
   description: Gets the Primary and Secondary ConnectionStrings to the NotificationHub
@@ -272,9 +272,9 @@ apis:
   tags: Notification Hubs Keys
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-notification-hubs/master/_listings/azure-notification-hubs/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnotificationhubsnamespacesnamespacenamenotificationhubsnotificationhubnameauthorizationrulesauthorizationrulenamelistkeys-post-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-notification-hubs/master/_listings/azure-notification-hubs/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-notificationhubsnamespacesnamespacenamenotificationhubsnotificationhubnameauthorizationrulesauthorizationrulenamelistkeys-post-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-notification-hubs/master/_listings/azure-notification-hubs/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnotificationhubsnamespacesnamespacenamenotificationhubsnotificationhubnameauthorizationrulesauthorizationrulenamelistkeys-post-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-notification-hubs/master/_listings/azure-notification-hubs/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-notificationhubsnamespacesnamespacenamenotificationhubsnotificationhubnameauthorizationrulesauthorizationrulenamelistkeys-post-openapi.md
 - name: Azure Notification Hubs API Notification Hubs Regenerate Keys
   x-api-slug: azure-notification-hubs-api
   description: Regenerates the Primary/Secondary Keys to the NotificationHub Authorization
@@ -285,7 +285,7 @@ apis:
   tags: Notification Hubs Regenerate Keys
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-notification-hubs/master/_listings/azure-notification-hubs/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnotificationhubsnamespacesnamespacenamenotificationhubsnotificationhubnameauthorizationrulesauthorizationrulenameregeneratekeys-post-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-notification-hubs/master/_listings/azure-notification-hubs/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-notificationhubsnamespacesnamespacenamenotificationhubsnotificationhubnameauthorizationrulesauthorizationrulenameregeneratekeys-post-openapi.md
 - name: Azure Notification Hubs API Notification Hubs Get Pns Credentials
   x-api-slug: azure-notification-hubs-api
   description: Lists the PNS Credentials associated with a notification hub .
@@ -295,7 +295,7 @@ apis:
   tags: Notification Hubs Pns Credentials
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-notification-hubs/master/_listings/azure-notification-hubs/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnotificationhubsnamespacesnamespacenamenotificationhubsnotificationhubnamepnscredentials-post-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-notification-hubs/master/_listings/azure-notification-hubs/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-notificationhubsnamespacesnamespacenamenotificationhubsnotificationhubnamepnscredentials-post-openapi.md
 - name: Azure Notification Hubs API
   x-api-slug: azure-notification-hubs-api
   description: Azure Notification Hubs provide an easy-to-use, multi-platform, scaled-out
